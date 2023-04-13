@@ -15,11 +15,20 @@ button {
 	box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.3);
 	position: fixed;
 }
+footer {
+	display: flex;
+	justify-content: center;
+	font-weight: bold;
+	
+	
+	
+}
 .container {
 	display: flex;
 	justify-content: center;
 }
 #par {
+	display: none;
 	margin-top: 500px;
 	background-color: white;
 	font-size: 40px;
